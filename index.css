@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(16, 3, 90);
+}
+.fade-out{
+    opacity: 0;
+}
+.contenu{   
+    margin-top: 18vh;       
+}
+.p1{
+    margin: 32px 0px 100px 0px;
+    font-size: 1.3rem;
+    color: white;
+    font-family: "Domine", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+h1{
+
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: #fff;
+  font-size: 4rem;
+
+}
+.button1{
+    width: 300px;
+    height: 60px;
+    border-radius: 17px;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.button1:active{
+    background-color: rgb(56, 56, 56);
+}
